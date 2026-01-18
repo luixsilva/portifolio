@@ -1,0 +1,38 @@
+export const projectsData = [
+  // {
+  //   title: "Teste",
+  //   description: "Teste",
+  //   link: "www.youtube.com",
+  //   code: "www.github.com",
+  //   previewVideo: "www.youtube.com",
+  //   technologies: [
+  //     "Next.js",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //   ],
+  // },
+  // {
+  //   title: "Teste",
+  //   description: "Teste",
+  //   link: "www.youtube.com",
+  //   code: "www.github.com",
+  //   previewVideo: "www.youtube.com",
+  //   technologies: [
+  //     "Next.js",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //     "Tailwind CSS",
+  //   ],
+  // },
+];
