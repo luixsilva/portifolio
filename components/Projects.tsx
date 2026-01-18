@@ -10,7 +10,7 @@ export default function Projects() {
 
       {projectsData.length ? (
         <div className="grid grid-cols-2 gap-4">
-          {projectsData.map((item, index) => (
+          {/* {projectsData.map((item, index) => (
             <div className="flex flex-col border rounded-md" key={index}>
               <video
                 src={item.previewVideo}
@@ -47,7 +47,7 @@ export default function Projects() {
                 </div>
               </div>
             </div>
-          ))}
+          ))} */}
         </div>
       ) : (
         <div className="flex flex-col border-2 border-dashed rounded-xl p-8  space-y-6">
